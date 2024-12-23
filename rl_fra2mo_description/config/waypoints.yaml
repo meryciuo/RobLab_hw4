@@ -1,0 +1,177 @@
+waypoints:
+  
+  - goal: "goal_1"
+    position:
+      x: 0.5
+      y: 3.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: 0.7071
+
+  - goal: "goal_2"
+    position:
+      x: -0.5
+      y: 9.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.866
+      w: 0.5
+
+  - goal: "goal_2b"
+    position:
+      x: -0.8
+      y: 9.5
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.866
+      w: 0.5
+
+  - goal: "goal_3"
+    position:
+      x: 4.9
+      y: 9.5
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -1.0
+      w: 0.0
+
+  - goal: "goal_4"
+    position:
+      x: 6.0
+      y: 1.4
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.9659
+      w: 0.2588
+  
+  - goal: "goal_5"
+    position:
+      x: 2.5
+      y: 12.15
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  
+  - goal: "goal_6"
+    position:
+      x: 7.9
+      y: -5.1
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: 0.7071
+
+  - goal: "goal_7"
+    position:
+      x: 7.24
+      y: -3.6
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: 0.7071
+
+  - goal: "goal_8"
+    position:
+      x: 2.9
+      y: 4.4
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: 0.7071
+
+  - goal: "goal_aruco1"
+    position:
+      x: 3.46
+      y: -0.75
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+
+  - goal: "goal_aruco2"
+    position:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.7071
+      w: -0.7071
+      
+  - goal: "goal_p1"
+    position:
+      x: -0.94
+      y: 12.40
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+
+  - goal: "goal_p2"
+    position:
+      x: 8.13
+      y: 12.50
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: -0.7071
+
+  - goal: "goal_p3"
+    position:
+      x: 6.13
+      y: 3.97
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: -0.7071
+
+  - goal: "goal_p4"
+    position:
+      x: 7.9
+      y: 6.7
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: -0.7071
+
+  - goal: "goal_p5"
+    position:
+      x: 3.38
+      y: 6.7
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.7071
+      w: 0.7071
