@@ -1,4 +1,6 @@
-# RobLab_hw4
+# RL24_Homework4
+RL24_Homework4
+
 README
 This repository contains the packages required for the homework 4.
 Follow the instructions to run the packages properly.
@@ -16,23 +18,23 @@ then source
 source install/setup.bash
 ```
 
-Visualize on Rviz
+## Visualize on Rviz
 
 ```bash
 ros2 launch rl_fra2mo_description display_fra2mo.launch.py
 ```
 
-Start Gazebo simulation
+## Start Gazebo simulation
 ```bash
 ros2 launch rl_fra2mo_description gazebo_fra2mo.launch.py
 ```
 
-To visualize the aruco
+## To visualize the aruco
 ```bash
 rqt
 ```
 
-FOR GOALS EXERCISE, after running the previous commands, open 2 terminals and then: 
+## FOR GOALS EXERCISE, after running the previous commands, open 2 terminals and then: 
 
 ```bash
 ros2 launch rl_fra2mo_description fra2mo_explore.launch.py
@@ -44,7 +46,7 @@ To run the node and select the desired option
 ros2 run rl_fra2mo_description follow_waypoints.py
 ```
 
-FOR EXERCISE 4 open 5 terminals in this order:
+## FOR EXERCISE 4 open 5 terminals in this order:
 
 ```bash
 ros2 launch rl_fra2mo_description gazebo_fra2mo.launch.py
